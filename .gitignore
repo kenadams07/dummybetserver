@@ -1,0 +1,20 @@
+/node_modules
+package-lock.json
+public/assets
+/src/i18n/en.json
+/src/log
+
+# Ignore .idea files
+.idea/
+.vscode/
+.env
+en.json
+#.env
+.log
+
+# ignore all generated images
+#.jpg
+
+# don’t ignore keep files
+!.keep
+!.gitkeep
